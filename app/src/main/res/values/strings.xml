@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Fooddy</string>
+    <string name="enter_mobil_number">Enter Mobil Number</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up_now">do you have any account? sign up now</string>
+    <string name="enter_name">Entet Name</string>
+    <string name="email">Enter Email</string>
+    <string name="address">Address</string>
+    <string name="confirm_password">Confirm PassWord</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_mobil_number_email">Enter your registered Mobile number or Email address</string>
+    <string name="next">Next</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My profile</string>
+    <string name="favorite_restaurant">Favorite Restaurant</string>
+    <string name="order_history">Order History</string>
+    <string name="log_our">Log our</string>
+    <string name="faqs">FAQs</string>
+    <string name="sumanta">Sumanta</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home fragment</string>
+    <string name="logout_fragment">Logout Fragment</string>
+    <string name="favorite_fragment">Favorite Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="k_f_c">K.F.C</string>
+    <string name="name">Sumanta</string>
+    <string name="dummy_phone">9143005588</string>
+    <string name="emailuser">sumanta@gamil.com</string>
+    <string name="addressuser">kolkata</string>
+    <string name="faq_answer_one">A.1 You will be taught using pre-recorded videos and text tutorials. The training has
+        quizzes, assignments, and tests to help you learn better. At the end of the training, you will attempt a project
+        to get hands-on practice of what you learn during your training.
+    </string>
+    <string name="faq_answer_two">A.2 As this is a purely online training program, you can choose to learn at any time
+        of the day. We will recommend a pace to be followed throughout the program, but the actual timings and learning
+        hours can be decided by students according to their convenience.
+    </string>
+    <string name="faq_answer_four">A.4 We recommend spending 10-12 hours per week. However, the actual learning hours
+        can be decided by you as per your convenience.
+    </string>
+    <string name="faq_answer_three">A.3 The training duration is of 6 weeks.</string>
+    <string name="faq_answer_five">A.5 You can choose your preferred batch date while signing up for the training
+        program.
+    </string>
+    <string name="faq_answer_six">A.6 You will be able to download the certificate once you complete your training and
+        take the final test.
+    </string>
+</resources>
